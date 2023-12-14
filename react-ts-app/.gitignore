@@ -23,4 +23,10 @@ yarn-debug.log*
 yarn-error.log*
 
 # add
-firebaseConfig.ts
+firebase*
+firestore*
+.firebase*
+*firebase-hosting*
+/functions
+.github
+.github/workflows/firebase-hosting*
