@@ -44,3 +44,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## memo
+
+### serve -s build -l 8000
+
+-s : 公開したいディレクトリ
+-l : ポート
+
+上のコマンドで `npm run build` したディレクトリを指定することで公開可能
