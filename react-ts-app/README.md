@@ -49,7 +49,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### serve -s build -l 8000
 
--s : 公開したいディレクトリ
+-s : 公開したいディレクトリ\
 -l : ポート
 
 上のコマンドで `npm run build` したディレクトリを指定することで公開可能
